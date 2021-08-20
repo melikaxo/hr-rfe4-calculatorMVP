@@ -7,7 +7,7 @@
 
 
 
-<!-- JavaScriptTranslator App -->
+<!-- Calculator App -->
 <!--
 *** I'm using markdown "reference style" links for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href=https://github.com/melikaxo/rfe4-mvp>
+  <a href=https://github.com/melikaxo/rfe4-calculatorMVP>
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -30,14 +30,14 @@
   <p align="center">
     An awesome JavaScript translator app to help beginners!
     <br />
-    <a href=https://github.com/melikaxo/rfe4-mvp><strong>Explore the docs »</strong></a>
+    <a href=https://github.com/melikaxo/rfe4-calculatorMVP><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href=https://github.com/melikaxo/rfe4-mvp>View Demo</a>
+    <a href=https://github.com/melikaxo/rfe4-calculatorMVP>View Demo</a>
     ·
-    <a href="https://github.com/melikaxo/rfe4-mvp/issues">Report Bug</a>
+    <a href="https://github.com/melikaxo/rfe4-calculatorMVP/issues">Report Bug</a>
     ·
-    <a href="https://github.com/melikaxo/rfe4-mvp/issues">Request Feature</a>
+    <a href="https://github.com/melikaxo/rfe4-calculatorMVP/issues">Request Feature</a>
   </p>
 </p>
 
